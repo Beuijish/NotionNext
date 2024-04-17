@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'YIMING DESIGN ',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
+  LANDING_HERO_P_1: 'Welcome to Yiming Design！',
   LANDING_HERO_BUTTON_1_TEXT: '了解项目',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
